@@ -35,7 +35,7 @@ About 3.7% of users are fraud.
 
 
 Some of EDA done to the data.
-<img src="img/Missing.png">
+<img src="img/missing.png">
 Looking at the missing data heatmap, data is only missing on the merchant_category and merchant_country columns.
 
 
