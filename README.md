@@ -35,7 +35,7 @@ About 3.7% of users are fraud.
 
 
 Some of EDA done to the data.
-<img src="img/Missing.png">
+<img src="img/missing.png">
 Looking at the missing data heatmap, data is only missing on the merchant_category and merchant_country columns.
 
 
@@ -82,7 +82,7 @@ In both model, precision go up, but recall is really low.
 
 Feature Engineering:<BR>
 Since the model result is not great, feature engineering is perform base on EDA.
-7 Feature is created:<BR>
+9 Feature is created:<BR>
 'is_atm': is the transaction category ATM.<BR>
 'is_GBR': is the transaction from UK.<BR>
 'is_manu': is the entry method manu.<BR>
