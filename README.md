@@ -177,4 +177,6 @@ To see how threshold, gain and loss impact the revenue, customers, a dashboard i
 
 Users is able to choose threshold, expect loss per fraud, expect gain per non fraud to determine the best case.
 
-[Link to Dashboard!](https://public.tableau.com/shared/MGWDNYBP5?:display_count=yes&:origin=viz_share_link)
+[Link to Threshold Dashboard!]https://public.tableau.com/shared/3S2PDR7P8?:display_count=yes&:origin=viz_share_link)
+[Link to Review Dashboard!](https://public.tableau.com/views/FraudReviewDashboard/FraudDectectDashboard2?:embed=y&:display_count=yes&:origin=viz_share_link)
+[Link to EDA Dashboard!](https://public.tableau.com/views/EDADashboard_15644203932690/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
